@@ -1,4 +1,11 @@
-<p align="center"><img src="github_image.gif" alt="Github Image" width="30%" /></p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="github_dark_image.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="github_image.gif" />
+    <img alt="Github Image" src="github_image.gif" width="30%" />
+  </picture>
+</div>
+
 
 <h1 align="center">Hi! I'm Nafis 👋👋👋</h1>
 <p align="center"><br />🔭 Currently I'm working as a Software Developer at Accenture. <br /> 📚 Professionally I aspire to be a Product Manager. <br /> ⚡ In leisure time, I produce music, write lyrics and play chess.</p>
