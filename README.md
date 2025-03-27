@@ -1,7 +1,7 @@
 <p align="center"><img src="nafis_image.gif" alt="Nafis Image" width="40%" /></p>
 
-<h1 align="center">Hi 👋 I'm Nafis!</h1>
-<p align="center"><br />🔭 Currently working as a Software Developer at Accenture. <br /> 📚 Nurturing my Product Mindset. <br /> ⚡ In my free time I produce music, write lyrics and play chess.</p>
+<h1 align="center">Hi! I'm Nafis 👋👋👋</h1>
+<p align="center"><br />🔭 Currently I'm working as a Software Developer at Accenture. <br /> 📚 Professionally I aspire to be a Product Manager. <br /> ⚡ In leisure time, I produce music, write lyrics and play chess.</p>
 <h2 align="center">🚀 Languages and Tools I Use</h2>
 <p align="center"><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
