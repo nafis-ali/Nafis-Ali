@@ -1,5 +1,4 @@
-<img src="welcome.gif" alt="Welcome Image" align="left" width="70%" />
-<img src="nafis_image.gif" alt="Nafis Image" align="right" width="30%" />
+<p align="center"><img src="nafis_image.gif" alt="Nafis Image" width="40%" /></p>
 
 <h1 align="center">Hi 👋 I'm Nafis!</h1>
 <p align="center"><br />🔭 Currently working as a Software Developer at Accenture. <br /> 📚 Nurturing my Product Mindset. <br /> ⚡ In my free time I produce music, write lyrics and play chess.</p>
