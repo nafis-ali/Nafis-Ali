@@ -1,4 +1,4 @@
-<p align="center"><img src="nafis_image.gif" alt="Nafis Image" width="40%" /></p>
+<p align="center"><img src="github_image.gif" alt="Github Image" width="30%" /></p>
 
 <h1 align="center">Hi! I'm Nafis 👋👋👋</h1>
 <p align="center"><br />🔭 Currently I'm working as a Software Developer at Accenture. <br /> 📚 Professionally I aspire to be a Product Manager. <br /> ⚡ In leisure time, I produce music, write lyrics and play chess.</p>
